@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-981d2360891dace0a216.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SpaceInvaderShip",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SpaceInvaderShip::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpaceInvaderShip-Debug-c2f727975d8fad77d1dc.json",
+					"name" : "SpaceInvaderShip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SpaceInvaderShip_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpaceInvaderShip_autogen-Debug-5cce805322ba5b39d0f8.json",
+					"name" : "SpaceInvaderShip_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SpaceInvaderShip_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpaceInvaderShip_autogen_timestamp_deps-Debug-27140ec5525777e67250.json",
+					"name" : "SpaceInvaderShip_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Charles.Jimenez/Documents/SpaceInvaderShip/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Charles.Jimenez/Documents/SpaceInvaderShip"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

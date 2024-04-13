@@ -1,0 +1,13 @@
+# ninja log v5
+14	175	7346388935829135	SpaceInvaderShip_autogen/timestamp	ba57c333505c28cc
+187	1502	7346388949109345	CMakeFiles/SpaceInvaderShip.dir/enemy.cpp.obj	b1d1eca3b12a8c4e
+567	1977	7346385659639095	CMakeFiles/SpaceInvaderShip.dir/bullet.cpp.obj	5e6a33ddac3c8cf0
+14	175	7346388935829135	SpaceInvaderShip_autogen/mocs_compilation.cpp	ba57c333505c28cc
+14	175	7346388935829135	C:/Users/Charles.Jimenez/Documents/SpaceInvaderShip/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/SpaceInvaderShip_autogen/timestamp	ba57c333505c28cc
+201	1690	7346387718878564	CMakeFiles/SpaceInvaderShip.dir/main.cpp.obj	a3223b4388fddc24
+14	175	7346388935829135	C:/Users/Charles.Jimenez/Documents/SpaceInvaderShip/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/SpaceInvaderShip_autogen/mocs_compilation.cpp	ba57c333505c28cc
+562	2243	7346385662315686	CMakeFiles/SpaceInvaderShip.dir/player.cpp.obj	e96790360f7c609e
+560	2227	7346385662152900	CMakeFiles/SpaceInvaderShip.dir/SpaceInvaderShip_autogen/mocs_compilation.cpp.obj	abf976563450f58c
+0	21	0	CMakeFiles/clean.additional	321391b2684b2653
+1502	1606	7346388950116015	SpaceInvaderShip.exe	359ba2c0c18c596a
+21	30	0	clean	577b940aee94fbd7
